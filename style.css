@@ -1,13 +1,31 @@
-body{}
-
-head{}
-
 #worker{
     height: 40px;
 }
-
 .links{
     display: flex;
     gap: 1rem;
     list-style: none;
 }
+#companyName{
+
+}
+
+#slogan{
+
+}
+
+#ant{
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#caulk{
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
