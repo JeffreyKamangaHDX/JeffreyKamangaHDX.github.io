@@ -5,3 +5,9 @@ head{}
 #worker{
     height: 40px;
 }
+
+.links{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
