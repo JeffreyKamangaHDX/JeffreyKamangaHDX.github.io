@@ -7,11 +7,22 @@
     list-style: none;
 }
 #companyName{
+    font-family: Nunito, serif;
 
 }
 
 #slogan{
+    color: rgb(176, 49, 33);
+    font-family: Bungee, serif;
 
+}
+
+#info{
+    font-family: Nunito, serif;
+}
+
+#about{
+    font-family: Nunito, serif;
 }
 
 #ant{
